@@ -1,0 +1,4 @@
+name: Lobby
+authors: [Caio]
+version: 1.0
+main: br.com.heavenmc.lobby.Lobby

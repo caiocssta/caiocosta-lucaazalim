@@ -1,0 +1,13 @@
+name: Heaven_Utils
+version: 1.0.1
+main: me.caio.Main
+author: Caio
+description:
+loadbefore: [Heaven_HungerGames]
+commands:
+  tag:
+  group:
+  rank:
+  multiplier:
+  clan:
+  copa:

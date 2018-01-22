@@ -1,0 +1,7 @@
+world-name: world
+sql: false
+
+sql-user: user
+sql-pass: pass
+sql-host: host
+sql-db: db

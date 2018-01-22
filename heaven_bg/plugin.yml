@@ -1,0 +1,5 @@
+name: Heaven_BungeeCord
+main: me.caio.bungeecord.Main
+version: 0.0
+author: CaioAMC
+commands:

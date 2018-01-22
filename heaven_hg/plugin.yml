@@ -1,0 +1,5 @@
+name: Heaven_HungerGames
+authors: [CaioAMC]
+main: me.caio.HungerGames.Main
+version: 1.0.3
+loadbefore: [Heaven_HungerGames]
